@@ -1,0 +1,69 @@
+#banner-image{
+padding-bottom: 75px;
+margin-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background:url("img/background.jpg") no-repeat center;
+background-size: cover;
+}
+#banner-content{
+position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin:auto;
+margin-top: 12%;
+margin-bottom:12%;
+background-color: rgba(0,0,0,0.7);
+max-width:660px;
+}
+.capt{
+    text-align: center;
+    font-weight:bold;
+}
+#login-image{
+padding-top:75px;
+margin-top:50px;
+color: #1b6d85;
+margin-bottom:50px;
+padding-bottom: 18px;
+background:url("img/intro-bg_1.jpg") no-repeat center;
+background-size: cover; 
+}
+.signup-img{
+ padding-top:75px;
+margin-top:50px;
+color: #1b6d85;
+margin-bottom:50px;
+padding-bottom: 75px;
+}
+.product-img{
+    padding-top:75px;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-bottom:50px;
+}
+.cart-img{
+    padding-top: 75px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    padding-bottom: 150px;
+}
+.settings-img{
+     padding-top: 75px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    padding-bottom: 100px;
+}
+.success-img{
+     padding-top: 75px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    padding-bottom: 100px;
+}
+footer{
+ padding: 10px 0;
+ background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}
